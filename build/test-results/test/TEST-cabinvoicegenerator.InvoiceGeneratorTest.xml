@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cabinvoicegenerator.InvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-16T19:19:01" hostname="DESKTOP-4Q550E8" time="0.041">
+  <properties/>
+  <testcase name="given_DistanceAndTime_ShouldReturn_TotalFare()" classname="cabinvoicegenerator.InvoiceGeneratorTest" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
